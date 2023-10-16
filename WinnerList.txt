@@ -1,0 +1,2 @@
+WINNER: ID: 3, Name: Cola, Count: 1, Weight: 100
+WINNER: ID: 0, Name: Bear, Count: 1, Weight: 564
